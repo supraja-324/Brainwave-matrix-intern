@@ -1,1 +1,1 @@
-# Brainwave-matrix-solutions-internship
+# Brainwave-matrix-intern
